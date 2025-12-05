@@ -1,0 +1,19 @@
+/* Hacer el logo del header más grande */
+.md-header__button.md-logo img {
+    height: 45px; /* Por defecto es 24px. Prueba con 40px o 45px */
+    width: auto;
+}
+
+/* Opcional: Si el logo es muy grande, quizás necesites aumentar la altura de la barra */
+:root {
+    --md-header-height: 60px; /* Ajusta la altura de la barra violeta */
+}
+extra:
+  # ... (tus redes sociales si las tienes)
+  alternate:
+    - name: Español
+      link: ./
+      lang: es
+    - name: English
+      link: ./en/
+      lang: en
