@@ -1,5 +1,25 @@
+/* ------------------------------------------------------- */
+/* 1. PC Y MÓVIL: Ocultar el texto pequeño "Inicio" (Migas de pan) */
+/* ------------------------------------------------------- */
 .md-breadcrumbs {
-  display: none;
+  display: none !important;
+}
+
+/* ------------------------------------------------------- */
+/* 2. MÓVIL: Ocultar el enlace "Inicio" del menú lateral */
+/* ------------------------------------------------------- */
+.md-nav__item a[href="."], 
+.md-nav__item a[href="./"] {
+  display: none !important;
+}
+
+/* ------------------------------------------------------- */
+/* 3. PC: Ocultar la PESTAÑA "Inicio" de la barra superior */
+/* (Úsalo si quieres que la gente haga clic en el Logo para ir al Home) */
+/* ------------------------------------------------------- */
+.md-tabs__item a[href="."], 
+.md-tabs__item a[href="./"] {
+  display: none !important;
 }
 /* Hacer el logo del header más grande */
 .md-header__button.md-logo img {
@@ -20,5 +40,3 @@ extra:
     - name: English
       link: ./en/
       lang: en
-
-
