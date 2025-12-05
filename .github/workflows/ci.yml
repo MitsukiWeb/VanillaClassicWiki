@@ -12,11 +12,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      
       - name: Instalar Python
         uses: actions/setup-python@v5
         with:
           python-version: 3.x
-      - name: Instalar MkDocs Material
-        run: pip install mkdocs-material
+          
+      - name: Instalar Dependencias
+        run: |
+          pip install mkdocs-material
+          pip install mkdocs-static-i18n
+          
       - name: Publicar Wiki
         run: mkdocs gh-deploy --force
