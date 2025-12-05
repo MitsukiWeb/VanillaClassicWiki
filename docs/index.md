@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="images/logo.png" alt="Vanilla Classic RO" width="300">
+</p>
 # Bienvenidos a Vanilla Classic RO
 
 **La experiencia Ancient definitiva: Clásica en esencia, moderna en diversión.**
