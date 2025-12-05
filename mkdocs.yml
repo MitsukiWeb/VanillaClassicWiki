@@ -1,0 +1,40 @@
+site_name: Vanilla Classic Wiki
+site_url: https://MitsukiWeb.github.io/VanillaClassicWiki/
+site_description: Wiki oficial de Vanilla Classic RO - Ep 7 Servidor Ancient.
+site_author: Mitsuki
+
+theme:
+  name: material
+  language: es
+  palette:
+    # Modo Oscuro por defecto (Ideal para gamers)
+    - scheme: slate
+      primary: deep purple
+      accent: teal
+      toggle:
+        icon: material/brightness-4
+        name: Cambiar a modo claro
+    - scheme: default
+      primary: deep purple
+      accent: teal
+      toggle:
+        icon: material/brightness-7
+        name: Cambiar a modo oscuro
+  features:
+    - navigation.tabs
+    - search.suggest
+    - search.highlight
+
+nav:
+  - Inicio: index.md
+  - Información:
+      - 'Rates y Episodio': info/rates.md
+      - 'Comandos': info/comandos.md
+  - Sistemas:
+      - 'Eventos': sistemas/eventos.md
+  - Descargas: descargas.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
