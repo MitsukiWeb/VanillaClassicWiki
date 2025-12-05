@@ -27,7 +27,7 @@
     
 -   :sparkles: **Eventos**
     ---
-    **Automaticos**. Poring race, Floor is lava, ivancion, devil scuare, disguise y muchos más.
+    **Automaticos**. Poring race, Floor is lava, invacion, devil scuare, disguise y muchos más.
     
 </div>
 
