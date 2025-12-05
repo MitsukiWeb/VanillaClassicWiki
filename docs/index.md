@@ -24,7 +24,11 @@
 -   :gear: **Mecánicas**
     ---
     **Pre-Renewal**. Cast, ASPD y defensa funcionan como en los viejos tiempos.
-
+    
+-   :gear: **Mecánicas**
+    ---
+    **Pre-Renewal**. Cast, ASPD y defensa funcionan como en los viejos tiempos.
+    
 </div>
 
 ---
