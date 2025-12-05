@@ -27,7 +27,7 @@
     
 -   :sparkles: **Eventos**
     ---
-    **Automaticos**. Cast, ASPD y defensa funcionan como en los viejos tiempos.
+    **Automaticos**. Poring race, Floor is lava, ivancion, devil scuare, disguise y muchos más.
     
 </div>
 
