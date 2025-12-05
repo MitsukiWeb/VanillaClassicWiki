@@ -69,3 +69,5 @@ plugins:
         - locale: en
           name: English
           build: true
+extra_css:
+  - stylesheets/extra.css
