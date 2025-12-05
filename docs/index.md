@@ -25,9 +25,9 @@
     ---
     **Pre-Renewal**. Cast, ASPD y defensa funcionan como en los viejos tiempos.
     
--   :gear: **Mecánicas**
+-   :sparkles: **Eventos**
     ---
-    **Pre-Renewal**. Cast, ASPD y defensa funcionan como en los viejos tiempos.
+    **Automaticos**. Cast, ASPD y defensa funcionan como en los viejos tiempos.
     
 </div>
 
