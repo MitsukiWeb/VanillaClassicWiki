@@ -5,11 +5,11 @@ site_author: Mitsuki
 
 theme:
   name: material
-  logo: images/logo.png         # <--- Aquí apunta a docs/images/logo.png
-  favicon: images/logo.png      # <--- Icono en la pestaña del navegador
+  logo: images/logo.png
+  favicon: images/logo.png
   language: es
   palette:
-    # Modo Oscuro por defecto (Ideal para gamers)
+    # Modo Oscuro por defecto
     - scheme: slate
       primary: deep purple
       accent: teal
@@ -26,6 +26,16 @@ theme:
     - navigation.tabs
     - search.suggest
     - search.highlight
+
+# --- ESTA SECCIÓN FALTABA PARA EL BOTÓN DE IDIOMA ---
+extra:
+  alternate:
+    - name: Español
+      link: ./
+      lang: es
+    - name: English
+      link: ./en/
+      lang: en
 
 nav:
   - Inicio: index.md
@@ -45,10 +55,12 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
-  plugins:
+
+# --- AQUÍ CORREGÍ LA INDENTACIÓN (Sin espacio al inicio) ---
+plugins:
   - search
   - i18n:
-      docs_structure: suffix # Usaremos la extensión .en.md para inglés
+      docs_structure: suffix
       languages:
         - locale: es
           default: true
