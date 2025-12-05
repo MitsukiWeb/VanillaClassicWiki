@@ -5,6 +5,8 @@ site_author: Mitsuki
 
 theme:
   name: material
+  logo: images/logo.png         # <--- Aquí apunta a docs/images/logo.png
+  favicon: images/logo.png      # <--- Icono en la pestaña del navegador
   language: es
   palette:
     # Modo Oscuro por defecto (Ideal para gamers)
@@ -35,11 +37,11 @@ nav:
   - Descargas: descargas.md
 
 markdown_extensions:
-- admonition
-- pymdownx.details
-- pymdownx.superfences
-- attr_list
-- md_in_html
-- pymdownx.emoji:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
