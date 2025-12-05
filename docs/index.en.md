@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="images/logo.png" alt="Vanilla Classic RO" width="300">
+  <img src="../images/logo.png" alt="Vanilla Classic RO" width="300">
 </p>
+
 # Welcome to Vanilla Classic RO
 
 **The ultimate Ancient experience: Classic in essence, modern in fun.**
@@ -65,3 +66,7 @@ We respect your time with features that don't break the game but make it more en
 ## 🚀 Join the Adventure!
 
 The server is currently in the preparation phase. Join our community to stay updated on the **Beta** and the **Grand Opening**.
+
+[Join Official Discord](https://discord.gg/TU_LINK_REAL){ .md-button .md-button--primary .md-button--large }
+
+[Download Client (Soon)](#){ .md-button }
