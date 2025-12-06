@@ -144,3 +144,4 @@ Estos son algunos de los comandos básicos que podrás usar:
 | `@showexp` | Ver cuánto exp consigues al derrotar a un mob. |
 | `@refresh` | Sincroniza tu posición si te quedas trabado. |
 | `@request` | Te contacta con algun Game Master Disponible. |
+| `@rates` | Informacion detallada de los rates del servidor. |
