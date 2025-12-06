@@ -11,11 +11,17 @@ Aquí encontrarás todos los detalles técnicos, configuraciones y mecánicas ex
 -   :zap: **Rates Base**
     ---
     **x10 / x10 / x10** (Base / Job / Drop)
+    *Experiencia equilibrada para un progreso constante.*
     
 -   :date: **Rates de Fin de Semana**
     ---
     **x13 / x13 / x10**
     *(Sábado 00:00 - Domingo 23:59)*
+    
+-   :runner: **Mecánicas de Party**
+    ---
+    * **Bonus de Exp:** Activado (Even Share)
+    * **Rango de Nivel:** 15 Niveles de diferencia
 
 -   :flower_playing_cards: **Cartas (Cards)**
     ---
@@ -80,7 +86,7 @@ Una experiencia clásica con mejoras modernas de Calidad de Vida (QoL).
     * **Battlegrounds:** Con sistema de cola (Queue) [@joinbg 1, 2, 3]
     * **Sistema de Ranking:** MvP, BG, WoE, PvP & KoE se resetean cada semana.
 
--   :tools: **Otros**
+-   :toolbox: **Otros**
     ---
     * **Npc Custom:** Healer, Breeder, Build Manager, Estilista, Hat Customizer & Quest Shop.
     * **Eventos Automatiocs:** ROTD, DOTD, Disguise, Devil Square, Poring Race & mas...
