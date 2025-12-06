@@ -145,3 +145,4 @@ Estos son algunos de los comandos básicos que podrás usar:
 | `@refresh` | Sincroniza tu posición si te quedas trabado. |
 | `@request` | Te contacta con algun Game Master Disponible. |
 | `@rates` | Informacion detallada de los rates del servidor. |
+| `@duel` | Permite enfrentar un duelo con otro player. |
