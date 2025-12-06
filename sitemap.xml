@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://MitsukiWeb.github.io/VanillaClassicWiki/</loc>
+        <lastmod>2025-12-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://MitsukiWeb.github.io/VanillaClassicWiki/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://MitsukiWeb.github.io/VanillaClassicWiki/en/"/>
+    </url>
+    <url>
+        <loc>https://MitsukiWeb.github.io/VanillaClassicWiki/info/server-info/</loc>
+        <lastmod>2025-12-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://MitsukiWeb.github.io/VanillaClassicWiki/info/server-info/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://MitsukiWeb.github.io/VanillaClassicWiki/en/info/server-info/"/>
+    </url>
+    <url>
+        <loc>https://MitsukiWeb.github.io/VanillaClassicWiki/en/</loc>
+        <lastmod>2025-12-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://MitsukiWeb.github.io/VanillaClassicWiki/en/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://MitsukiWeb.github.io/VanillaClassicWiki/"/>
+    </url>
+    <url>
+        <loc>https://MitsukiWeb.github.io/VanillaClassicWiki/en/info/server-info/</loc>
+        <lastmod>2025-12-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://MitsukiWeb.github.io/VanillaClassicWiki/en/info/server-info/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://MitsukiWeb.github.io/VanillaClassicWiki/info/server-info/"/>
+    </url>
+</urlset>

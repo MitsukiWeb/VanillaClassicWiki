@@ -1,0 +1,42 @@
+/* ------------------------------------------------------- */
+/* 1. PC Y MÓVIL: Ocultar el texto pequeño "Inicio" (Migas de pan) */
+/* ------------------------------------------------------- */
+.md-breadcrumbs {
+  display: none !important;
+}
+
+/* ------------------------------------------------------- */
+/* 2. MÓVIL: Ocultar el enlace "Inicio" del menú lateral */
+/* ------------------------------------------------------- */
+.md-nav__item a[href="."], 
+.md-nav__item a[href="./"] {
+  display: none !important;
+}
+
+/* ------------------------------------------------------- */
+/* 3. PC: Ocultar la PESTAÑA "Inicio" de la barra superior */
+/* (Úsalo si quieres que la gente haga clic en el Logo para ir al Home) */
+/* ------------------------------------------------------- */
+.md-tabs__item a[href="."], 
+.md-tabs__item a[href="./"] {
+  display: none !important;
+}
+/* Hacer el logo del header más grande */
+.md-header__button.md-logo img {
+    height: 80px; /* Por defecto es 24px. Prueba con 40px o 45px */
+    width: auto;
+}
+
+/* Opcional: Si el logo es muy grande, quizás necesites aumentar la altura de la barra */
+:root {
+    --md-header-height: 60px; /* Ajusta la altura de la barra violeta */
+}
+extra:
+  # ... (tus redes sociales si las tienes)
+  alternate:
+    - name: Español
+      link: ./
+      lang: es
+    - name: English
+      link: ./en/
+      lang: en
