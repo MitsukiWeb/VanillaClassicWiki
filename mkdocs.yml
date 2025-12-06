@@ -44,6 +44,7 @@ nav:
   - Sistemas:
       - 'Eventos': sistemas/eventos.md
   - Descargas: descargas.md
+  - Donaciones: paypal.md
 
 markdown_extensions:
   - admonition
