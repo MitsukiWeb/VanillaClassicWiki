@@ -41,7 +41,6 @@ nav:
   - Inicio: index.md
   - Información:
       - 'Información General': info/server-info.md
-      - 'Comandos': info/comandos.md
   - Sistemas:
       - 'Eventos': sistemas/eventos.md
   - Descargas: descargas.md
