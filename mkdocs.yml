@@ -40,7 +40,7 @@ extra:
 nav:
   - Inicio: index.md
   - Información:
-      - 'Rates y Episodio': info/rates.md
+      - 'Información General': info/server-info.md
       - 'Comandos': info/comandos.md
   - Sistemas:
       - 'Eventos': sistemas/eventos.md
