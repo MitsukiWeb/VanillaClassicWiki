@@ -20,7 +20,7 @@ Aquí encontrarás todos los detalles técnicos, configuraciones y mecánicas ex
 -   :flower_playing_cards: **Cartas (Cards)**
     ---
     * **Normales:** x10 (0.10%)
-    * **MvP / Mini-Boss:** x1 (0.10%) **[Desactivadas en WoE]**
+    * **MvP / Mini-Boss:** x10 (0.10%) **[Desactivadas en WoE]**
 
 </div>
 
@@ -131,7 +131,10 @@ Estos son algunos de los comandos básicos que podrás usar:
 | `@commands` | Muestra la lista completa. |
 | `@autoloot` | Recoge objetos automáticamente (Configurable). |
 | `@mi / @mobinfo` | Ver datos de monstruos (Drop, HP, Elemento). |
+| `@ii / @iteminfo` | Ver datos de item (Id, peso, valor). |
 | `@whodrops` | Ver qué monstruo tira un item. |
+| `@whereis` | Ver donde aparece un mob especifico. |
 | `@time` | Ver hora del servidor. |
-| `@exp` | Ver cuánto falta para subir de nivel. |
+| `@showexp` | Ver cuánto exp consigues al derrotar a un mob. |
 | `@refresh` | Sincroniza tu posición si te quedas trabado. |
+| `@request` | Te contacta con algun Game Master Disponible. |
